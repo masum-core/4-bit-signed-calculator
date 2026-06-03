@@ -1,7 +1,0 @@
-
-Started : "Create Schematic Symbol".
-Running sch2sym...
-Command Line: sch2sym -intstyle ise -family artix7 -refsym FULLsubtarctorusing_halfsubtractor {/home/ise/SF 59/hardware_designcombination/FULLsubtarctorusing_halfsubtractor.sch} {/home/ise/SF 59/hardware_designcombination/FULLsubtarctorusing_halfsubtractor.sym}
-ERROR: /home/ise/SF 59/hardware_designcombination/FULLsubtarctorusing_halfsubtractor.sym was not updated. Set the 'Overwrite Existing Symbol' process property to enable overwritting of existing symbol files.
-
-Process "Create Schematic Symbol" failed

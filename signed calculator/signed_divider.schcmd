@@ -1,3 +1,0 @@
-select figure at 3924 1210 8 -branches -sn=1
-select figure at 3918 1210 8 -branches -sn=1
-add instance divider 336 416 R0 -sn=1
